@@ -6,7 +6,7 @@ minetest.register_decoration({
     biomes = {"grassland"},
     y_max = 200,
     y_min = 1,
-    schematic = minetest.get_modpath("stalhrim") .. "/schematics/tomb_ruin.mts",
+    schematic = minetest.get_modpath("ancient_ice_stuff") .. "/schematics/tomb_ruin.mts",
     flags = "place_center_x, place_center_z",
     rotation = "random",
 })

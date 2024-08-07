@@ -29,7 +29,7 @@ minetest.register_ore({
     clust_num_ores = 2,
     clust_size     = 2,
     height_min     = -31000,
-    height_max     = -2000
+    height_max     = 31000
 })
 
 minetest.register_craftitem("ancient_ice_stuff:ancient_ice_mace_head", {
